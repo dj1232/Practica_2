@@ -1,0 +1,15 @@
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.exe
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.deps.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.runtimeconfig.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.runtimeconfig.dev.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\bin\Debug\netcoreapp3.1\Salario_Empleados.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.csprojAssemblyReference.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.frm_empleados.resources
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.csproj.GenerateResource.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.AssemblyInfoInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.AssemblyInfo.cs
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\Salario_Empleados\Salario_Empleados\obj\Debug\netcoreapp3.1\Salario_Empleados.genruntimeconfig.cache
