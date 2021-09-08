@@ -1,0 +1,15 @@
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.exe
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.deps.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.runtimeconfig.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.runtimeconfig.dev.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\bin\Debug\netcoreapp3.1\arreglos_ej4.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.csprojAssemblyReference.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.Form1.resources
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.csproj.GenerateResource.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.AssemblyInfoInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.AssemblyInfo.cs
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Practica 2_DiegoAyala\arreglos_ej4\arreglos_ej4\obj\Debug\netcoreapp3.1\arreglos_ej4.genruntimeconfig.cache
